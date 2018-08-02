@@ -8,7 +8,7 @@ import YTSearch from 'youtube-api-search';
 
 
 
-const API_KEY =  'AIzaSyAl8bzUwvIYErfN5oR0xtt9hfDekW6uIQk';
+const API_KEY =  '';
 
 
 class App extends React.Component{
